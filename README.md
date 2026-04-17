@@ -14,8 +14,7 @@ A social media application clone developed with a hybrid approach using **Java**
 * **Backend:** Google Firebase (Auth, Database, Storage)
 * **Architecture:** XML-based UI with Material Design components.
 
-## 📸 Screenshots
-*(Projenin ekran görüntülerini buraya sürükleyip bırakabilirsin)*
+
 
 ## 📝 Learning Outcomes
 * Combining **Java** and **Kotlin** within the same project.
